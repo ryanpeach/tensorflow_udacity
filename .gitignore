@@ -1,0 +1,9 @@
+notMNIST*
+.ipynb_checkpoints
+.vagrant
+summary
+*.zip
+*.tar.gz
+*.pickle
+*.swp
+
